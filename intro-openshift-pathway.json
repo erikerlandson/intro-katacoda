@@ -39,6 +39,11 @@
       "title": "Transferring Files in and out of Containers"
     },
     {
+      "external_link": "https://learn.openshift.com/introduction/eje-scenario/",
+      "course_id": "eje-scenario",
+      "title": "EJE's Big Scenario"
+    },
+    {
       "external_link": "https://learn.openshift.com/introduction/fis-deploy-app/",
       "course_id": "fis-deploy-app",
       "title": "OpenShift for Fuse Developers"
